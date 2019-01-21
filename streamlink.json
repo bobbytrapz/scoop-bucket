@@ -1,0 +1,10 @@
+{
+  "homepage": "https://github.com/streamlink/streamlink-portable",
+  "version": "0.14.2",
+  "url": "https://github.com/streamlink/streamlink-portable/releases/download/0.14.2/streamlink-0.14.2.exe",
+  "bin": [ ["Streamlink.bat", "streamlink"] ],
+  "checkver": "github",
+  "autoupdate": {
+    "url": "https://github.com/streamlink/streamlink-portable/releases/download/$version/streamlink-$version.exe"
+  }
+}

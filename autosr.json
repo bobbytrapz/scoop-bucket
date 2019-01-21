@@ -1,0 +1,12 @@
+{
+  "homepage": "https://github.com/bobbytrapz/autosr",
+  "version": "0.1.0",
+  "url": "https://github.com/bobbytrapz/autosr/releases/download/0.1.0/autosr.exe",
+  "bin": "autosr",
+  "checkver": {
+    "github": "https://github.com/bobbytrapz/autosr"
+  },
+  "autoupdate": {
+    "url": "https://github.com/bobbytrapz/autosr/releases/download/$version/autosr.exe"
+  }
+}
