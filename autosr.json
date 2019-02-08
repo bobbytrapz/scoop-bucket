@@ -1,9 +1,9 @@
 {
   "homepage": "https://github.com/bobbytrapz/autosr#readme",
-  "version": "1.0.0-beta2",
-  "url": "https://github.com/bobbytrapz/autosr/releases/download/v1.0.0-beta2/autosr.exe",
+  "version": "1.0.0-beta3",
+  "url": "https://github.com/bobbytrapz/autosr/releases/download/v1.0.0-beta3/autosr.exe",
   "bin": "autosr.exe",
-  "hash": "d74c7e47a3242a09d8bec9aa151a4ddb99286d3372646f7cfc6149b26a83a4c6",
+  "hash": "54e6a4ef9aa4b98a2815c5a29d57af1f3e2a6cac938a8bc02c76dc428922b7ea",
   "checkver": {
     "github": "https://github.com/bobbytrapz/autosr"
   },
